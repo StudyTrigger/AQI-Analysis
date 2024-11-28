@@ -1,0 +1,101 @@
+City,Season,Month,AQI,Main_Pollutant,Temperature_C,Humidity_%,Wind_Speed_kph,AQI_Category
+Delhi,Spring,3,119,NO2,-4.1,45,3.3,Unhealthy
+Faridabad,Spring,4,388,O3,-9.5,14,26.5,Hazardous
+Noida,Spring,12,72,PM2.5,37.9,55,25.4,Moderate
+Gurugram,Winter,3,478,SO2,20.7,81,19.2,Hazardous
+Noida,Summer,9,357,SO2,26.3,75,17.4,Hazardous
+Faridabad,Summer,8,83,SO2,31.5,86,12.4,Moderate
+Faridabad,Winter,3,37,PM2.5,34.8,48,8.1,Good
+Noida,Winter,1,278,O3,27,90,13.3,Hazardous
+Sonipat,Fall,1,153,PM2.5,-3.2,61,28.8,Very Unhealthy
+Gaziabad,Spring,3,113,PM2.5,-6.8,33,14.5,Unhealthy
+Noida,Winter,11,163,PM10,3.7,66,22.4,Very Unhealthy
+Najafgarh,Summer,4,103,O3,19.9,21,3.7,Unhealthy
+Najafgarh,Spring,1,240,NO2,26.6,84,13.1,Hazardous
+Gurugram,Spring,5,431,PM10,14.3,79,8.4,Hazardous
+Hisaar,Summer,7,346,SO2,15.1,85,16.7,Hazardous
+Noida,Fall,12,169,SO2,28.7,45,3.3,Very Unhealthy
+Gaziabad,Summer,9,147,NO2,28.3,71,18.2,Unhealthy
+Noida,Fall,4,402,O3,23.9,57,22.8,Hazardous
+Delhi,Fall,10,156,PM2.5,34.1,42,3.6,Very Unhealthy
+Gurugram,Fall,7,487,CO,35.8,60,9.7,Hazardous
+Gurugram,Spring,9,296,CO,2.3,11,6.3,Hazardous
+Hisaar,Fall,9,89,NO2,3.2,90,13.8,Moderate
+Hisaar,Fall,8,379,NO2,2.7,61,16.9,Hazardous
+Gurugram,Summer,4,336,O3,34.4,43,6.6,Hazardous
+Hisaar,Winter,4,56,SO2,34.7,80,4.1,Moderate
+Mathura,Summer,12,81,PM2.5,-7.4,48,6.3,Moderate
+Delhi,Spring,7,119,SO2,12.5,82,27.8,Unhealthy
+Agra,Fall,5,19,PM10,-9,11,25,Good
+Delhi,Fall,7,301,PM2.5,-0.5,43,14.3,Hazardous
+Agra,Winter,6,172,NO2,15.6,11,5.7,Very Unhealthy
+Mathura,Spring,10,97,PM2.5,-0.7,90,7.7,Moderate
+Gurugram,Summer,5,219,SO2,-7.5,53,9.4,Hazardous
+Mathura,Spring,6,435,CO,33,61,25.4,Hazardous
+Gaziabad,Winter,2,71,PM10,-1.8,81,18.4,Moderate
+Sonipat,Winter,10,401,NO2,2.3,73,2,Hazardous
+Delhi,Spring,9,124,O3,-2.6,40,29.8,Unhealthy
+Delhi,Summer,3,342,NO2,38,44,20.3,Hazardous
+Agra,Fall,11,348,CO,11.9,50,15.1,Hazardous
+Hisaar,Fall,9,331,NO2,14,81,12.2,Hazardous
+Hisaar,Fall,5,457,PM2.5,-3.1,55,23.6,Hazardous
+Agra,Fall,2,174,CO,-4.2,36,9,Very Unhealthy
+Delhi,Summer,12,135,SO2,4.4,54,26.5,Unhealthy
+Gurugram,Summer,12,384,PM10,5,53,25.8,Hazardous
+Agra,Summer,9,59,SO2,35.8,11,23.4,Moderate
+Mathura,Fall,4,410,PM2.5,0,56,3.1,Hazardous
+Faridabad,Spring,9,255,PM2.5,-2.6,87,17.6,Hazardous
+Sonipat,Summer,2,323,O3,25,63,10.7,Hazardous
+Faridabad,Winter,12,144,NO2,35.9,30,19.2,Unhealthy
+Najafgarh,Winter,3,348,PM10,22.5,52,1.2,Hazardous
+Hisaar,Spring,6,393,PM10,31.9,81,9.3,Hazardous
+Agra,Fall,6,352,CO,28.3,45,9.5,Hazardous
+Gaziabad,Summer,11,97,PM2.5,27.8,42,22.6,Moderate
+Gaziabad,Winter,10,172,SO2,15.4,32,4.9,Very Unhealthy
+Mathura,Fall,2,246,NO2,28,68,26.8,Hazardous
+Faridabad,Fall,5,391,PM2.5,-7.2,62,15.7,Hazardous
+Sonipat,Fall,5,62,SO2,28.1,43,10.1,Moderate
+Faridabad,Spring,6,301,SO2,-6.6,30,2.7,Hazardous
+Delhi,Fall,10,93,CO,3.5,40,20.3,Moderate
+Gurugram,Fall,12,391,PM10,18.9,12,17.5,Hazardous
+Hisaar,Spring,1,118,PM10,11.7,34,14.2,Unhealthy
+Delhi,Fall,7,84,CO,-1.6,69,26.5,Moderate
+Sonipat,Summer,2,302,SO2,14.3,90,22.2,Hazardous
+Gaziabad,Spring,12,88,CO,-5.7,33,14.4,Moderate
+Najafgarh,Spring,3,85,NO2,7.3,86,13.3,Moderate
+Gurugram,Winter,3,129,O3,-4.1,84,27.1,Unhealthy
+Mathura,Spring,6,346,PM10,17.9,72,15.7,Hazardous
+Agra,Summer,8,214,CO,12.5,25,14,Hazardous
+Hisaar,Fall,11,385,O3,32.8,16,20.2,Hazardous
+Agra,Spring,11,89,PM2.5,22,71,17.1,Moderate
+Sonipat,Spring,2,388,PM2.5,-8.3,87,14.4,Hazardous
+Mathura,Summer,4,114,CO,25.3,44,17.7,Unhealthy
+Agra,Winter,6,429,SO2,-6.4,44,4.2,Hazardous
+Mathura,Summer,7,473,NO2,39.1,27,0.9,Hazardous
+Mathura,Spring,2,117,PM10,15,80,16,Unhealthy
+Hisaar,Spring,8,137,O3,26.4,33,11.3,Unhealthy
+Hisaar,Fall,5,107,CO,7.7,29,24.4,Unhealthy
+Faridabad,Spring,7,133,PM10,37.3,48,4.5,Unhealthy
+Agra,Winter,6,351,SO2,7.2,19,24.3,Hazardous
+Delhi,Fall,12,446,PM2.5,-8.1,29,12.7,Hazardous
+Noida,Winter,10,339,SO2,12.9,81,28.3,Hazardous
+Najafgarh,Summer,1,147,PM10,28.7,49,0.3,Unhealthy
+Gaziabad,Summer,2,273,PM2.5,-2.8,40,0.5,Hazardous
+Agra,Winter,5,290,SO2,6.1,87,27.7,Hazardous
+Najafgarh,Winter,11,209,NO2,15.6,25,1.2,Hazardous
+Gaziabad,Spring,8,288,SO2,16.3,57,9.1,Hazardous
+Agra,Winter,10,31,O3,20.6,29,29.2,Good
+Agra,Spring,2,419,PM2.5,-4.2,63,24,Hazardous
+Agra,Winter,4,73,CO,-5.9,81,13.6,Moderate
+Gurugram,Winter,9,196,O3,20.7,70,28.1,Very Unhealthy
+Najafgarh,Summer,10,491,PM10,34.2,33,12.5,Hazardous
+Noida,Summer,11,374,PM2.5,0.7,47,27.5,Hazardous
+Sonipat,Fall,7,439,NO2,15.9,64,6.6,Hazardous
+Mathura,Summer,5,383,PM2.5,25.5,89,3.2,Hazardous
+Sonipat,Summer,2,112,PM2.5,11.1,61,20.5,Unhealthy
+Hisaar,Winter,8,400,SO2,39.7,72,9.9,Hazardous
+Gurugram,Winter,12,167,PM2.5,-0.2,61,13.8,Very Unhealthy
+Agra,Spring,7,139,PM10,17.4,74,4.1,Unhealthy
+Noida,Winter,12,285,O3,2.5,13,12.2,Hazardous
+Delhi,Fall,1,308,CO,2.6,47,9.3,Hazardous
+Sonipat,Winter,4,230,NO2,13.7,88,1.9,Hazardous
